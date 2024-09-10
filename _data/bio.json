@@ -4,44 +4,44 @@
     "label": "Student",
     "picture": "https://github.com/Naomi-Toloumu.png",
     "email": "ntoloumu@hawaii.edu",
-    "phone": "(808) 369-6838",
+    "phone": "808-369-6838",
     "website": "https://Naomi-Toloumu.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Naomi-Toloumu", "url": "http://github.com/Naomi-Toloumu" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/naomi-toloumu-1b9474325/" },
-      { "network": "instagram", "username": "n3n3.nOh3a", "url": "http://instagram.com/n3n3.n0h3a" } /
+      { "network": "linkedin", "username": "Naomi Toloumu", "url": "https://www.linkedin.com/in/naomi-toloumu-1b9474325/" },
+      { "network": "instagram", "username": "molly", "url": "https://www.instagram.com/n3n3.n0h3a/" }
     ]
   },
   "interests": [
     { "name": "Ethical Hacking" },
     { "name": "Programming Languages" },
-    { "name": "Software Development" },
-    { "name": "Artifical Intelligence (AI)" },
-    { "name": "Algorithms and Data Structures" }
+    { "name": "Creative Writing" },
+    { "name": "Cybersecurity" },
+    { "name": "Algorithm and Data Structures" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Visual Studio Code", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2022-08-22",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
       ]
     }
-    ],
+  ],
   "work": [
     {
       "company": "UH Manoa Board of Publications",
