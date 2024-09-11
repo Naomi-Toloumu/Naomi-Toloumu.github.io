@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/STEM_CAPTSTONE(Main).png
 title: "STEM Capstone Project: Recycle"
 date: 2022
 published: true
