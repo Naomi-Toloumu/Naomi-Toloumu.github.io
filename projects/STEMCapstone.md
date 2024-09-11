@@ -8,7 +8,7 @@ published: true
 labels:
   - Woodworking
   - Recycling System
-  - Enviornmental Friendly
+  - Enviornmentally Friendly
 summary: "A Capstone Project geared towards reducing plastic waste around my high school."
 ---
 
