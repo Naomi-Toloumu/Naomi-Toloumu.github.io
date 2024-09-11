@@ -2,20 +2,25 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
+title: "Books 4 the Homeless"
 date: 2015
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Community Project
+  - Book Donations
+  - Team Effort
+summary: "A chance to give back by donating books to homeless shelters, offering comfort
+and entertainment to those in need."
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Books 4 the Homeless is a senior project that I proposed to me team of
+fellow classmates with the goal of involving students from all grade levels.
+We focused on those who seek both educational resources and a source of
+comfort and entertainment. Understanding the significant role books play in our
+lives as avid readers, we wanted to extend this beenfit to others who might find solace
+and enrichment through reading.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
