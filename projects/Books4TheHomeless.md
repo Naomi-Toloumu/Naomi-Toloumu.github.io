@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/Books4Homeless.jpg
 title: "Books 4 the Homeless"
 date: 2015
 published: true
