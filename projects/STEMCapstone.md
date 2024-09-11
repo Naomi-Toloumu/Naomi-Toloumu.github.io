@@ -2,20 +2,24 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "STEM Capstone Project: Recycle"
+date: 2022
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Woodworking
+  - Recycling System
+  - Enviornmental Friendly
+summary: "A Capstone Project geared towards reducing plastic waste around my high school."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
+As I walked the halls of Radford High School, I noticed piles
+of plastic waste scattered around the school, particularly near
+high-traffic areas like the cafeteria and vending machines in the main hallway.
+Inspired by this, I designed a fun and innovative system aimed at encouraging
+students to sort their cans and bottles more effectively by making
+the process engaging and enjoyable.
 
 <hr>
 
