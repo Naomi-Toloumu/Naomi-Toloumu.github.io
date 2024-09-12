@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/Books4Homeless.jpg
 title: "Books 4 the Homeless"
-date: 2015
+date: 2022
 published: true
 labels:
   - Community Project
