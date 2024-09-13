@@ -21,10 +21,11 @@ lives as avid readers, we wanted to extend this beenfit to others who might find
 and enrichment through reading.
 
 Final Results:
-1st - Freshmen (236)
+---------------------
+*1st - Freshmen (236)
 2nd - Sophmores (125)
 3rd - Seniors (45)
-4th - Juniors (0)
+4th - Juniors (0)*
 
 <img width="400px" class="rounded float-start pe-4" src="../img/PizzaParty(B4H).jpg">
 
