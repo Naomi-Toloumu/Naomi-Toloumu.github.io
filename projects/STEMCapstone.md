@@ -12,7 +12,7 @@ labels:
 summary: "A Capstone Project geared towards reducing plastic waste around my high school."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/STEM-Pic(4).jpg"> 
 
 As I walked the halls of Radford High School, I noticed piles
 of plastic waste scattered around the school, particularly near
