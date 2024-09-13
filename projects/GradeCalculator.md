@@ -11,31 +11,105 @@ labels:
 summary: "In ICS 211, I created a GradeCalculator."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+The GradeCalculator Java program illustrates key programming concepts with a well-organized class structure and a main method as the entry point. It uses final variables for constants, manages user input with Scanner, and includes basic validation. The program calculates percentages for different assessments, caps them at 100%, and computes weighted averages based on student status (UG, G, DL) using conditional logic. Output is formatted for clarity with System.out.printf, and resource management is handled by closing the Scanner. To improve, the code could benefit from refactoring repeated logic into methods, enhancing error handling, and providing clearer user prompts.
 
-This project helped developed my knoweldge on Java, by challenging me
-to use if and else if statements, doubles, scanners and strings. I'm
-able to apply this knowledge to future classes by adjusting the maximum
-grades.
+```
+import java.util.Scanner;
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+public class GradeCalculator {
+     public static void main(String[] args) {
+      
+      final double HOMEWORK_MAX = 800.0;
+      final double QUIZZES_MAX = 400.0;
+      final double MIDTERM_MAX = 150.0;
+      final double FINAL_MAX = 200.0;    
+      
+      Scanner scnr = new Scanner(System.in);
+      
+      String student_stat;
+      student_stat = scnr.next();
+      
+      if (!(student_stat.equals("UG") || student_stat.equals("G") || student_stat.equals("DL"))){
+         System.out.println("Error: student status must be UG, G or DL");
+         scnr.close();
+         return;
+      }
+      
+      double homework;
+      homework = scnr.nextDouble();
+      homework = (homework / HOMEWORK_MAX) * 100;
+      if(homework > 100.0){
+         homework = 100.0;
+      }
+      System.out.printf("Homework: %.1f%%", homework);
+      System.out.println();
+    
+      double quizzes;
+      quizzes = scnr.nextDouble();
+      quizzes = (quizzes / QUIZZES_MAX) * 100;
+      if (quizzes > 100.0) {
+         quizzes = 100.0;
+      }
+      System.out.printf("Quizzes: %.1f%%", quizzes);
+      System.out.println();
+      
+      double midterm;
+      midterm = scnr.nextDouble();
+      midterm = (midterm / MIDTERM_MAX) * 100;
+      if(midterm > 100.0){
+         midterm = 100.0;
+      }
+      System.out.printf("Midterm: %.1f%%", midterm);
+      System.out.println();
+      
+      double final_exam;
+      final_exam = scnr.nextDouble();
+      final_exam = (final_exam / FINAL_MAX) * 100;
+      if(final_exam > 100.0){
+         final_exam = 100.0;
+      }
+      System.out.printf("Final Exam: %.1f%%", final_exam);
+      System.out.println();
+    
+      double avg = 0.0;
+      
+      if (student_stat.equals("UG")) {
+         avg = (homework * 0.2) + (quizzes * 0.2) + (midterm * 0.3) + (final_exam * 0.3);
+         System.out.printf("UG average: %.1f%%\n", avg);
+      }
+      
+      else if (student_stat.equals("G")){
+         avg = (homework * 0.15) + (quizzes * 0.05) + (midterm * 0.35) + (final_exam * 0.45);
+         System.out.printf("G average: %.1f%%\n", avg);
+         
+      }
+      else if (student_stat.equals("DL")){
+         avg = (homework * 0.05) + (quizzes * 0.05) + (midterm * 0.4) + (final_exam * 0.5);
+         System.out.printf("DL average: %.1f%%\n", avg);
+      }
+    
+      if (avg >= 90) {
+         System.out.print("Course grade: A");
+         System.out.println();
+      }
+      else if (avg >= 80) {
+         System.out.print("Course grade: B");
+         System.out.println();
+      }
+      else if (avg >= 70) {
+         System.out.print("Course grade: C");
+         System.out.println();
+      }
+      else if (avg >= 60) {
+         System.out.print("Course grade: D");
+         System.out.println();
+      }
+      else {
+         System.out.print("Course grade: F");
+         System.out.println();
+      }
+      scnr.close();
+   }
 }
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
