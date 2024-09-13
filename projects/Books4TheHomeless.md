@@ -26,5 +26,7 @@ Final Results:
 3rd - Seniors (45)
 4th - Juniors (0)
 
+<img width="400px" class="rounded float-start pe-4" src="../img/PizzaParty(B4H).jpg">
+
 The first place winners received a free pizza party that included drinks, cookies
 and chips with the enormous amount of books that they contributed.
