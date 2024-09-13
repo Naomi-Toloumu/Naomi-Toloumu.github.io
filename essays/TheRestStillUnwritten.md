@@ -10,8 +10,6 @@ labels:
   - Origin Story
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 *Software Engineering: a specialized field within Computer Science that employs
 systematic and displined principles for the design, development and maintenance
 of software systems..*
