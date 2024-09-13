@@ -16,6 +16,8 @@ labels:
 systematic and displined principles for the design, development and maintenance
 of software systems..*
 
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
 ## The Origin + Correlation to Computer Science
 
 My affinity for solving intricate puzzles has been a cornerstone of my personal development. Engaging with complex and challenging puzzles has instilled in me a deep sense of patience and a meticulous attention to detail. These qualities are essential in software engineering, where each problem requires thoughtful consideration and methodical problem-solving. Embracing the challenge of solving these puzzles has fostered a mindset that I believe will serve me well in tackling the demanding aspects of software engineering.
