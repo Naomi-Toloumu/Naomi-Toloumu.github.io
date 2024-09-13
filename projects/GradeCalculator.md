@@ -13,6 +13,8 @@ summary: "In ICS 211, I created a GradeCalculator."
 
 The GradeCalculator Java program illustrates key programming concepts with a well-organized class structure and a main method as the entry point. It uses final variables for constants, manages user input with Scanner, and includes basic validation. The program calculates percentages for different assessments, caps them at 100%, and computes weighted averages based on student status (UG, G, DL) using conditional logic. Output is formatted for clarity with System.out.printf, and resource management is handled by closing the Scanner. To improve, the code could benefit from refactoring repeated logic into methods, enhancing error handling, and providing clearer user prompts.
 
+[Visual Studio Code]
+
 ```
 import java.util.Scanner;
 
