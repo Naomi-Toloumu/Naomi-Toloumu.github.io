@@ -16,7 +16,7 @@ labels:
 systematic and displined principles for the design, development and maintenance
 of software systems..*
 
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-------------------------------------------
 
 ## The Origin + Correlation to Computer Science
 
