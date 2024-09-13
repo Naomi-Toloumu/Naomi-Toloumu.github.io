@@ -25,10 +25,11 @@ the process engaging and enjoyable.
 
 <pre>
 
-This project had taken me two to three months with the end product looking
-absolutely phenomenal 
+This project had taken me about two to three months with the end product looking
+absolutely phenomenal. It was adapted and donated to Radford High School's
+Green Team, where they carried on a legacy of recycling.
 
-<img class="img-fluid" src="../img/STEM-Pic(4).jpg">
+<img class="img-fluid" src="../img/STEM-Pic(Finale).jpg">
 
 </pre>
 
