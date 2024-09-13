@@ -20,6 +20,16 @@ comfort and entertainment. Understanding the significant role books play in our
 lives as avid readers, we wanted to extend this beenfit to others who might find solace
 and enrichment through reading.
 
+Phases:
+I) Propose the idea to the AVID underclassmen's respective classes and being along two empty boxes that are labelled for each grade level.
+I) Collect the boxes from each of the AVID grade level's classroom by the end of each week then bring them back on Monday.
+II) After the designated deadline, collect the boxes one last time and thoroughly clean
+the books and count for each grade level's box.
+III) After properly cleaning the books, deliver them to the Institute For Human
+Services Inc.
+IV) Present the data to the Junior AVID class and panel of judges
+
+
 Final Results:
 ---------------------
 *1st - Freshmen (236)
@@ -31,3 +41,5 @@ Final Results:
 
 The first place winners received a free pizza party that included drinks, cookies
 and chips with the enormous amount of books that they contributed.
+
+
