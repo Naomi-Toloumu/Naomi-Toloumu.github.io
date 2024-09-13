@@ -11,8 +11,6 @@ labels:
   - Questioning to Succeed 
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-
 ## What’s a smart question?
 
 Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something.
@@ -21,6 +19,8 @@ Stack Overflow, a question and answer site for programmers, is a great resource 
 
 The “Smart” question is notable for its thoroughness and clarity. It doesn’t just ask about the basic function of JavaScript source maps (.map files), but also delves into related topics like the importance of files such as `angular.min.js.map`, the role of `.js.map` files in enhancing JavaScript applications, and the process of creating these source maps. This detailed approach provides a comprehensive understanding of how source maps aid in debugging and development, making the question particularly effective. 
 
+
+[SmartQ Ex:](https://stackoverflow.com/questions/21719562/how-can-i-use-javascript-source-maps-map-files)
 ```
 Q: How can I use JavaScript source maps (.map files)?
 
@@ -62,6 +62,7 @@ It is created at build time. There are build tools that can build your .map file
 
 Meanwhile, the “Not So Smart” question lacks depth and focuses more on seeking an easy solution for learning programming languages, rather than seeking detailed or practical advice. 
 
+[NotSmartQ](https://stackoverflow.com/questions/3514737/which-language-is-easiest-to-learn)
 ```
 Q: Which language is easiest to learn?
 
