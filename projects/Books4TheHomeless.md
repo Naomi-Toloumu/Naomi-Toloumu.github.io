@@ -56,5 +56,7 @@ Final Results:
 Key Takeaways:
 --------------------
 1) Successful Communication is a Two-Way Street
+
 2) Always Maintain Flexibility
+   
 3) Setbacks are Inevitable  
