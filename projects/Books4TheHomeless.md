@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![](img/Books4Homeless.jpg =1024 x 1024)
+image: img/Books4Homeless.jpg
 title: "Books 4 the Homeless"
 date: 2022
 published: true
