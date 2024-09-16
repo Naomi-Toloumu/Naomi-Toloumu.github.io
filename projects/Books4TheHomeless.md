@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="Books4Homeless.jpg" alt="alt text" width="200" height="200">
+image: <img src="Books4Homeless.jpg" width="200" height="200">
 title: "Books 4 the Homeless"
 date: 2022
 published: true
