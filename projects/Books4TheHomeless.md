@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="Books4Homeless.jpg" width="225" height="225">
+image: <img src="[Books4Homeless.jpg](https://drive.google.com/file/d/1YdAsFc_h3j8hrxPrxX889zpSK7w3ADE4/view?usp=sharing)" width="225" height="225">
 title: "Books 4 the Homeless"
 date: 2022
 published: true
