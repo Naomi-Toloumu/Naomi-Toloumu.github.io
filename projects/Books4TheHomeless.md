@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="B4H(2.0).jpg">
+image: img/B4H(2.0)jpg
 title: "Books 4 the Homeless"
 date: 2022
 published: true
