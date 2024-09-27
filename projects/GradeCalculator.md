@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/GradeCalculator(2.0).tiff
+image: img/GradeCalculator.png
 title: "Grade Calculator"
 date: 2023
 published: true
