@@ -214,5 +214,6 @@ Changes
 2. Incorporation a column of the far left with the original Menus section but adding in a new section called Menu Recommendations where the restraunt may add their specials or popular dishes to attract customers attention rather immediately.
 3. Getting rid of repetitive information such as the two phone numbers and the footer with three social medias.  I just kept their trademark.
 
-![JadePalace2.0P1](img/JadeDynasty2.0.png)
-![JadePalace2.0P2](img/JadeDynasty2.1.png)
+<img class="img-fluid" src="../img/JadeDynasty(2.0).png">
+
+<img class="img-fluid" src="../img/JadeDynasty(2.1).png)">
