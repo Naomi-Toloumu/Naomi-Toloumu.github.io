@@ -206,7 +206,7 @@ style.css
 }
 ```
 
-For the Your Choice Assignment, I decided to recreate the [Jade Dynasty Seafood Restaurant](https://www.jadedynastyhawaii.com/), providing a more modern take on the website and more interactive and fun features.
+For the Your Choice Assignment, I decided to recreate the [Jade Dynasty Seafood Restaurant](https://www.jadedynastyhawaii.com/)'s website, providing a more modern take on the website and more interactive and fun features.
 
 Changes
 ---------
