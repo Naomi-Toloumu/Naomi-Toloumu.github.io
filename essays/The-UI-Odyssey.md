@@ -7,7 +7,7 @@ published: true
 labels:
   - UI Framework 
   - Bootstrap5
-  - Practice Makes Perfect
+  - PMP
 ---
 
 
