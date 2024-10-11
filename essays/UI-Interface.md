@@ -216,4 +216,4 @@ Changes
 
 <img class="img-fluid" src="../img/JadeDynasty(2.0).png">
 
-<img class="img-fluid" src="../img/JadeDynasty(2.1).png)">
+<img class="img-fluid" src="../img/JadeDynasty(2.1).png">
