@@ -10,6 +10,7 @@ labels:
   - Event Discovery and Management Platform
   - Campus Service Connector 
 ---
+By: Naomi Toloumu, Joanne Oshiro, Lionel Derrick Roxas & Alex Cornwell
 
 ## Overview
 
