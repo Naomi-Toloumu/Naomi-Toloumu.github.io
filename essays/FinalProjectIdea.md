@@ -48,6 +48,7 @@ Whether or not the following bullet points list all pages or not, the completed 
 - Users may provide event feedback for those interested in volunteering in the future.
 
 ## Beyond the Basics
+
 After implementing the basic functionality, here are ideas for more advanced features:
 - Integration with a map API to display event locations.
 - Advanced User Profile Customization where students' portfolios can be exported as PDFs or shared with future employers or educational institutions.
