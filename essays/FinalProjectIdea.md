@@ -38,6 +38,7 @@ Some possible mockup pages include:
 - Admin Home Page
 
 ## Use Case Ideas
+
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
 - New user goes to the landing page, logs in, gets the home page, sets up a profile. (How do they learn how the system works?)
