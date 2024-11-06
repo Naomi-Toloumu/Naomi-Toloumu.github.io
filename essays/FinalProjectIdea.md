@@ -13,13 +13,13 @@ labels:
 
 ## Overview
 
-### *The Problem*
 
+*The Problem*
 University of Hawai’i students face a significant challenge in finding local volunteer opportunities, creating a barrier for those eager to make a positive impact and gain relevant experience within their communities. 
 
-### *The Solution*
-
+*The Solution*
 The Mānoa Unity Project offers a centralized platform that connects students with local organizations, providing easy access to volunteer opportunities that align with their academic and career aspirations, while fostering community engagement. 
+
 
 ## Approach
 
@@ -37,6 +37,7 @@ Some possible mockup pages include:
 - Sign-up / Login Page
 - Admin Home Page
 
+
 ## Use Case Ideas
 
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
@@ -46,6 +47,7 @@ Whether or not the following bullet points list all pages or not, the completed 
 - Users can sign up as volunteers and view available events.
 - Organizations can post and manage volunteer events (i.e. dates, times, locations, descriptions).
 - Users may provide event feedback for those interested in volunteering in the future.
+
 
 ## Beyond the Basics
 
