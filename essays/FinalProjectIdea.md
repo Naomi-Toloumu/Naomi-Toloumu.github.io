@@ -13,11 +13,11 @@ labels:
 
 ## Overview
 
-*The Problem*
+### *The Problem*
 
 University of Hawai’i students face a significant challenge in finding local volunteer opportunities, creating a barrier for those eager to make a positive impact and gain relevant experience within their communities. 
 
-*The Solution*
+### *The Solution*
 
 The Mānoa Unity Project offers a centralized platform that connects students with local organizations, providing easy access to volunteer opportunities that align with their academic and career aspirations, while fostering community engagement. 
 
@@ -42,7 +42,7 @@ Some possible mockup pages include:
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
 - New user goes to the landing page, logs in, gets the home page, sets up a profile. (How do they learn how the system works?)
-- Admin goes to the landing page, logs in, gets the home page, edits site.
+- Admin goes to the landing page, logs in, gets the home page, edits the site.
 - Users can sign up as volunteers and view available events.
 - Organizations can post and manage volunteer events (i.e. dates, times, locations, descriptions).
 - Users may provide event feedback for those interested in volunteering in the future.
@@ -50,6 +50,7 @@ Whether or not the following bullet points list all pages or not, the completed 
 ## Beyond the Basics
 
 After implementing the basic functionality, here are ideas for more advanced features:
-- Integration with a map API to display event locations.
-- Advanced User Profile Customization where students' portfolios can be exported as PDFs or shared with future employers or educational institutions.
-- Introducing an invention by implementing a points system where students may earn points for signing up, attending events and completing volunteer hours as well as providing feedback. The points may be redeemed for rewards such as gift cards, free tickets to events or certificates/recognition/academic credit from the university. 
+
+- **Integration with a map API** to display event locations.
+- **Advanced User Profile Customization** where students' portfolios can be exported as PDFs or shared with future employers or educational institutions.
+- **Points System**: Introduce a points system where students may earn points for signing up, attending events, completing volunteer hours, and providing feedback. The points may be redeemed for rewards such as gift cards, free tickets to events, or certificates/recognition/academic credit from the university.  
