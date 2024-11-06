@@ -15,11 +15,11 @@ labels:
 
 
 *The Problem*
---------------
+
 University of Hawai’i students face a significant challenge in finding local volunteer opportunities, creating a barrier for those eager to make a positive impact and gain relevant experience within their communities. 
 
 *The Solution*
---------------
+
 The Mānoa Unity Project offers a centralized platform that connects students with local organizations, providing easy access to volunteer opportunities that align with their academic and career aspirations, while fostering community engagement. 
 
 
