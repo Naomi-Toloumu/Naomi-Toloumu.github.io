@@ -8,7 +8,7 @@ published: true
 labels:
   - Design Patterns 
   - Growth
-  - 3 Snippts of Code
+  - 3 Snippets of Code
 ---
 
 
