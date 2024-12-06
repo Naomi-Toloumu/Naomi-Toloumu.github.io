@@ -147,6 +147,8 @@ const CartPage = () => {
 In this example, the component listens for changes in the shopping cart by waiting for an event (cartUpdated). When the cart is updated, it triggers an update to the component’s state and re-renders the UI. This is a direct application of the observer pattern, where the component "observes" changes in the cart and reacts accordingly.
 
 
+<img class="img-fluid" src="../img/Meme2.png">
+
 
 
 ## The Value of Design Patterns
