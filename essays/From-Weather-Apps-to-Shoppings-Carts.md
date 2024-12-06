@@ -11,12 +11,6 @@ labels:
   - 3 Snippets of Code
 ---
 
-
-
-
-## From a Weather App to a Shopping Cart
------
-
 In software development, just like in any field, there are proven ways of solving problems. These methods are called design patterns. Think of them as best practices or blueprints that developers use to make their code work better, be more organized, and easier to manage. This essay will explain what design patterns are and demonstrate how they appear in three different code examples. By the end, we’ll answer two questions: What are design patterns? and What design patterns have been used in the code examples?
 
 
