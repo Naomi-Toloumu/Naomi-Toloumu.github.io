@@ -13,6 +13,7 @@ labels:
 
 
 
+
 ## From a Weather App to a Shopping Cart
 -----
 
@@ -20,11 +21,13 @@ In software development, just like in any field, there are proven ways of solvin
 
 
 
+
 ## What Are Design Patterns?
 -----
+
 A design pattern is a general solution to a common problem that developers face when writing software. It's not a specific piece of code, but more of a guide that shows how to solve a problem in a structured way. Imagine you have a problem, and instead of coming up with a brand new solution from scratch, you follow a recipe that has worked for others in similar situations. That's what design patterns do for developers—they offer proven solutions that can be adapted to different situations.
 
-Design Patters can be divided into three main types:
+**Design Patters can be divided into three main types**:
 
 1. Creational Patterns: These focus on how objects are created in a program.
 
@@ -34,8 +37,10 @@ Design Patters can be divided into three main types:
 
 
 
+
 ## A Simple Weather Function – Strategy Pattern
 -----
+
 The first code snippet is a function that calculates the "feels like" temperature based on the temperature and humidity. It then provides a "danger level" based on how hot and humid it is. This function makes use of a strategy pattern.
 
 The strategy pattern is a way of allowing a program to choose from different methods of doing something, depending on the situation. It lets you change the approach or behavior at runtime.
@@ -69,8 +74,10 @@ This function is using "if-else" statements to decide what category the calculat
 
 
 
+
 ## Header Component – Composite Pattern
 -----
+
 The second code snippet is a React component that displays the header of a website. This header contains several smaller parts, like the restaurant's name, navigation links, and social media links. The structure of this component is a good example of the composite pattern.
 
 The composite pattern is a way to organize components or objects into a tree-like structure, where both individual components and groups of components can be treated the same way. It’s especially useful when you have objects that can be grouped together and you want to treat them as a whole.
@@ -111,8 +118,10 @@ Here, the Header component combines different smaller components into one big co
 
 
 
+
 ## Shopping Cart – Observer Pattern
 -----
+
 The third code snippet is a React component that displays a shopping cart. This component listens for changes in the cart and updates the UI accordingly when items are added or removed. This is a good example of the observer pattern.
 
 The observer pattern is a way of letting one part of a program notify other parts when something changes. In this case, when an item is added or removed from the shopping cart, the cart component "wakes up" and updates the display to reflect the change.
@@ -145,8 +154,10 @@ In this example, the component listens for changes in the shopping cart by waiti
 
 
 
+
 ## The Value of Design Patterns
 -----
+
 Design patterns are powerful tools in software development because they help solve common problems in a structured and efficient way. In the examples we looked at:
 
 1. The strategy pattern was used in the weather function to categorize the "feels like" temperature.
