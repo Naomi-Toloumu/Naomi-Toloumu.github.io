@@ -29,11 +29,11 @@ A design pattern is a general solution to a common problem that developers face 
 
 **Design Patters can be divided into three main types**:
 
-1. Creational Patterns: These focus on how objects are created in a program.
+1. *Creational Patterns*: These focus on how objects are created in a program.
 
-2. Structural Patterns: These deal with how different parts of a program are organized or connected.
+2. *Structural Patterns*: These deal with how different parts of a program are organized or connected.
 
-3. Behavioral Patterns: These describe how objects interact and communicate with each other.
+3. *Behavioral Patterns*: These describe how objects interact and communicate with each other.
 
 
 
