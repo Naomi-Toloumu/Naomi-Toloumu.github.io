@@ -143,7 +143,9 @@ In this example, the component listens for changes in the shopping cart by waiti
 Design patterns are powerful tools in software development because they help solve common problems in a structured and efficient way. In the examples we looked at:
 
 1. The strategy pattern was used in the weather function to categorize the "feels like" temperature.
+
 2. The composite pattern was used in the header component to organize different parts of the page into a cohesive whole.
+
 3. The observer pattern was used in the shopping cart to automatically update the UI when the cart changes.
 
 By using these design patterns, developers can write code that is more flexible, maintainable, and easier to understand. Rather than reinventing the wheel for each new project, design patterns let developers build on established solutions that have already been tested and proven effective. This leads to faster development, fewer bugs, and better software overall.
