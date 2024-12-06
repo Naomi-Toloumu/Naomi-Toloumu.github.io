@@ -167,3 +167,5 @@ Design patterns are powerful tools in software development because they help sol
 3. The observer pattern was used in the shopping cart to automatically update the UI when the cart changes.
 
 By using these design patterns, developers can write code that is more flexible, maintainable, and easier to understand. Rather than reinventing the wheel for each new project, design patterns let developers build on established solutions that have already been tested and proven effective. This leads to faster development, fewer bugs, and better software overall.
+
+<img class="img-fluid" src="../img/Meme.png">
