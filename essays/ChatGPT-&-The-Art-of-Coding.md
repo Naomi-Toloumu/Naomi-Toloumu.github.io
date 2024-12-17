@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Popcorn"
+title: "ChatGPT & The Art of Coding"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-16
 published: true
