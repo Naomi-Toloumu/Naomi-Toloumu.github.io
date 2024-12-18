@@ -30,23 +30,18 @@ Initially, I was hesitant about using AI due to the negative perceptions surroun
 
 *Experience WODs*
 -----
-The Experience WODs were a more casual version of the in-class WODs, serving as a "trial run" before the official tests. They allowed multiple attempts for each code prompt, giving us a chance to try different solutions and refine our skills. Unlike the practice WODs, where I relied heavily on AI, during the Experience WODs I decided to take a different approach. I made a conscious choice not to use AI, thinking that doing it on my own would help me learn better. When I got stuck, instead of turning to ChatGPT, I preferred to watch the instructional videos provided, trying to work through the problems independently. This method definitely slowed me down, but I felt that it would give me a stronger foundation in the long run. I spent a lot of time figuring things out myself, sometimes struggling for longer than necessary, but this approach helped me internalize the concepts more deeply, even if it took me longer to get through the tasks.
+I made the decision not to use AI, thinking that doing it on my own would help me learn better. When I got stuck, instead of turning to ChatGPT, I preferred to watch the instructional videos provided, trying to work through the problems independently. This method definitely slowed me down, but I felt that it would give me a stronger foundation in the long run. I spent a lot of time figuring things out myself, sometimes struggling for longer than necessary, but this approach helped me internalize the concepts more deeply, even if it took me longer to get through the tasks. 
 
 
 *In-class Practice WODs*
 ------
-The in-class Practice WODs were designed to help us get used to the pressure of the official ones, which could last anywhere from twenty minutes to an hour. Unfortunately, I didn’t fully take advantage of these practice runs. Instead of using them as an opportunity to engage more deeply with the material, I just went with the flow. I relied heavily on AI to get through the problems, thinking it would be a quick fix, even though these sessions were meant to be low-stakes and a chance to make mistakes without pressure. I didn’t ask for help from instructors or peers, missing out on valuable learning moments. In hindsight, those practice WODs were the perfect time to focus on building my skills, but I relied too much on AI to do the heavy lifting. Later, I realized that if I’d pushed myself to work through the problems on my own and sought help when needed, I would have been better prepared for the real challenges ahead.
+During the Experience WODs, I used ChatGPT selectively, turning to it only for concepts I struggled to fully grasp after multiple attempts. I saw it as an opportunity to practice using AI in a balanced way—leveraging it when necessary to clarify difficult concepts without becoming overly reliant on it. By doing this, I was able to use ChatGPT as a tool to guide my learning, helping me understand key principles without letting it take over the problem-solving process. This approach allowed me to enhance my understanding of the material, while also building the confidence to tackle challenges independently.
 
 
 *In-class WODs*
 -----
-The WODs (Workouts of the Day) were a brutal test of my endurance, both mentally and physically. Nothing quite prepared me for the stress and frustration they caused, especially as I raced against the clock, trying to solve timed coding prompts under intense pressure. My first official WOD was a turning point. I had decided to tackle it alone, relying on the limited knowledge I had at the time. I quickly realized this was a decision I would come to regret.
+The WODs were a tough test of my coding skills, and my initial approach relied heavily on AI tools like ChatGPT for quick solutions. While AI provided immediate feedback and suggestions, it ultimately slowed my learning process. Instead of developing a deeper understanding of the concepts, I became overly reliant on AI to solve problems for me. Realizing this, I shifted my approach, using AI more strategically to ask targeted questions and seek optimization tips rather than just copying answers.
 
-In those early moments, I was so focused on getting the code right that I started leaning heavily on AI tools like ChatGPT. While the instant feedback and suggestions seemed like a lifeline at first, they ended up doing more harm than good in the long run. Instead of forcing myself to work through problems and learn the underlying concepts, I took the easy way out, letting AI do much of the heavy lifting for me.
-
-Halfway through, it became painfully clear that relying on AI in this way wasn't helping me develop the skills I needed. I wasn't gaining the deep understanding I thought I was. In fact, it was just slowing me down. That's when I shifted my approach. I started using AI more strategically—less as a crutch and more as a tool to supplement my learning. I began to ask more targeted questions, seeking clarification or suggestions for optimization rather than just copying answers.
-
-Looking back, I realize that my early reliance on AI, while it seemed like a shortcut, ultimately hinder my growth. If I'd approached those WODs with a more deliberate mindset—using AI more effectively from the start—things might have gone differently. But in the end, that struggle taught me how to work through problems on my own, while also using AI to enhance my learning, not replace it.
 
 *Esssays*
 -----
@@ -55,13 +50,8 @@ I used ChatGPT to help with my technical essays, mainly to fix spelling errors a
 
 *Final Project*
 -----
-After watching a YouTube video on implementing a search bar, I decided to create a similar feature for a product page in my project. While the tutorial gave me a basic understanding, I turned to ChatGPT to clarify certain concepts and ensure I was following best practices.
+While working on a product page, I used ChatGPT to solve a few coding issues. I asked, "How does getServerSession work in Next.js for authentication?" ChatGPT explained session management and how to protect pages with loggedInProtectedPage. I also needed help with a case-insensitive Prisma query, so I asked, "How do I use findMany for a case-insensitive query?" ChatGPT showed me how to use the contains operator with mode: 'insensitive'. Additionally, I asked, "How do I pass props between components in Next.js when one is 'use client'?" ChatGPT guided me on importing and exporting SearchProducts and ListProducts correctly. This helped me improve my code structure and make the development process faster.
 
-I needed help understanding how the getServerSession method in Next.js worked with authentication and how it integrated with my Prisma query. ChatGPT explained how sessions function and how to use the loggedInProtectedPage function to protect the page.
-
-Additionally, the tutorial briefly touched on fetching data, but I wasn’t sure how to structure a case-insensitive Prisma query. ChatGPT clarified how to use the findMany query with the contains operator and pass the search query dynamically, ensuring the results were filtered correctly.
-
-I also sought advice on organizing the components for better code structure. ChatGPT helped me understand how to pass props between SearchProducts and ListProducts, making my code more modular and reusable. Finally, it explained how setting default props in ProductsPage ensures the page functions properly even when the search bar is empty.
 
 ```
 import { getServerSession } from 'next-auth';
@@ -114,16 +104,22 @@ export default ProductsPage;
 
 ```
 
+
 *Learning*
 -----
-ChatGPT has played a key role in improving my understanding of software engineering, especially when it comes to debugging. Whenever I run into bugs or errors in my code, I can quickly ask ChatGPT for help in identifying the problem. It helps me interpret error messages, explains what might be causing issues, and suggests ways to fix them. By walking me through different debugging strategies, it has made the process faster and more efficient. This has also helped me grasp important programming concepts like code structure, logic, and common pitfalls. Overall, ChatGPT has made me more confident and methodical when tackling bugs in my code.
+ChatGPT has been a valuable tool in improving my understanding of software engineering, especially when it comes to debugging. When encountering bugs or errors in my code, I can quickly ask ChatGPT for help. It assists in interpreting error messages, explaining potential causes, and suggesting fixes. This makes the debugging process faster and more efficient, allowing me to understand important concepts like code structure and logic. ChatGPT also helps with common issues, such as resolving ESLint errors in VSCode. For example, when I get warnings like "no-unused-vars" or "expected indentation of 2 spaces," I can ask ChatGPT, "How do I fix those particular Eslint errors in VSCode?" It essentially helps by providing various solutions and informs me of potential factors that impact it which I take note of.
+
 
 *Answering a Question in Class*
 -----
 To answer most of the discussion questions in my course, I focus on taking detailed notes during lectures, jotting down key points and ideas discussed in class. I often use ChatGPT to simplify complex topics and present them in clearer terms. While ChatGPT is a helpful tool, I double-check its explanations against my notes to make sure everything aligns with what was covered in class. This approach helps me understand the material better and answer the questions more effectively.
 
-Asking or Answer a Smart Question
+
+*Asking or Answer a Smart Question*
+-----
 I tend not to ask or answer complex questions because I feel that I lack the experience and knowledge to tackle such challenging topics. Instead of using ChatGPT or any AI tools, I prefer to review what other students have discussed in class or on Discord, as their insights often provide different perspectives that help me understand the material better. Since I don’t feel confident in solving a wide range of errors or complex problems, I usually try to work through any difficulties on my own. 
+
+
 
 Coding Example:
 "Give an Example of using async and await ot fetch data from an API"
@@ -139,41 +135,29 @@ async function fetchData() {
 fetchData();
 ```
 
+
 *Explaining Code*
-1. Simplifying Complex Concepts
-ChatGPT makes complex topics like async and await more approachable by breaking them down into simpler terms. Instead of assuming prior knowledge, it explains that async allows the use of await, which pauses execution until a promise is resolved. This makes understanding asynchronous behavior much easier for beginners.
+-----
+AI, like ChatGPT, has been very useful for explaining code and helping developers understand complex concepts quickly. It can provide instant explanations and suggest solutions, which speeds up the development process. However, the solutions it gives aren’t always perfect and often require tweaking to fit the problem. While it saves time by giving a starting point, it can take some trial and error to refine the results. Despite this, AI tools are still valuable for speeding up learning and improving coding efficiency.
 
-2. Focusing on the Purpose of Each Step
-ChatGPT doesn't just explain the syntax but focuses on why each part of the code is needed. It emphasizes how await fetch() ensures that the request completes before moving forward, and why response.json() is awaited to parse the response. This helps users see the logic behind each operation.
-
-3. Clarifying Key Terms and Functions
-The explanation highlights the functions used (like fetch() and response.json()) in simple terms. ChatGPT explains that fetch() sends the request and returns a promise, while response.json() is used to convert the response to JSON. This ensures users understand the purpose of each function, not just how to use them.
-
-4. Breakind down the Flow of Execution
-ChatGPT helps users visualize the execution flow of asynchronous code, explaining how await makes it appear synchronous. It describes the step-by-step process: making the request, waiting for it to resolve, parsing the response, and logging the data. This clarity aids in understanding the order of operations.
-
-5. Encouraging Active Understanding
-By emphasizing the end result (logging data), ChatGPT encourages users to think critically about the output. It helps them not only understand the code but also anticipate the data structure, reinforcing the learning process.
-
-6. Providing Context and Use Cases
-Using a simple, real-world example like JSONPlaceholder makes the code more practical. This approach helps users see the immediate relevance of the example and allows them to test it themselves, which strengthens their understanding and ability to adapt it to other projects.
 
 *Writing Code*
 -----
-ChatGPT helps me kickstart coding by providing clear structures, syntax suggestions, and example code. It’s a valuable tool for tackling unfamiliar problems and building a solid foundation for my projects.
+ChatGPT has become an essential tool in my development process, especially for new projects or challenging tasks. It quickly provides clear templates, code snippets, and guidance, helping me avoid common mistakes and speed up the initial stages of development. For example, when I needed help with setting up authentication in Next.js and Prisma, I could simply ask, “How do I set up authentication with Next.js and Prisma?” and get a step-by-step explanation. While the code often requires some adjustments, ChatGPT significantly accelerates my workflow, helping me learn faster and improve efficiency.
+
 
 *Documenting Code*
 ----
-ChatGPT helps me write clear comments and docstrings, explaining code sections, functions, and algorithms. It makes documenting my code easier and ensures clarity, especially for team projects.
+After generating code from ChatGPT, it often includes summaries that explain the code's purpose and how different parts work together. These automatic explanations help make the code easier to understand and maintain, saving time and improving readability. This is especially helpful in collaborative projects, where clear documentation is key. ChatGPT’s ability to break down complex code into simple descriptions ensures better understanding and easier integration of algorithms or design patterns into the codebase.
 
 
 *Quality of Code*
 -----
-ChatGPT has helped me write cleaner code by catching basic mistakes like indentation and formatting errors. Its feedback made me more confident and helped me adopt best practices, making it easier to write efficient, readable code.
+ChatGPT has significantly improved my coding practices in ICS 314, helping me write cleaner and more efficient code. In the beginning, I struggled with issues like indentation and common errors, but ChatGPT's consistent feedback helped me quickly identify and correct these mistakes. It provided clear explanations, pointed out formatting issues, and suggested best practices, which made it easier to adopt good habits. Over time, tasks like proper indentation became automatic, and errors that once slowed me down became easier to catch and fix.
 
 *Other Uses*
 -----
-ChatGPT helped me download and check software versions like Node.js and npm with simple commands. It also explained how to start the development server using npm run dev, making it easy to test my project locally and ensure everything was set up correctly.
+AI has helped me with the setup and testing process for my development enrionment. For example, it guided me through downloading and checking essential software like Node.js and npm, using simple commands such as node -v and npm -v to verify their versions. Additionally, ChatGPT helped me understand how to use npm run dev to launch the development server, allowing me to test my project locally. By providing clear, step-by-step instructions, ChatGPT ensured that my project was properly set up and running on localhost, minimizing setup errors and accelerating my development workflow.
 
 ## Impact on Learning and Understanding
 -----
@@ -197,5 +181,6 @@ Traditional teaching methods in software engineering focus on lectures and textb
 The future role of AI in software engineering education has the potential to revolutionize how students learn and interact with technology. As AI continues to advance, it could provide even more personalized learning experiences by adapting to individual student needs, offering tailored lessons, and providing instant feedback on assignments. AI-driven tools could help bridge the gap between theory and practice by automating complex coding tasks, identifying errors, and suggesting improvements in real-time, thus speeding up the learning process. However, challenges remain, particularly around ensuring the accuracy of AI feedback and avoiding over-reliance on automated solutions. To maximize the benefits of AI, there will need to be a balance between technology and human guidance, as well as continued efforts to improve AI systems to ensure they offer meaningful insights without replacing critical thinking. As AI evolves, it has the potential to become an indispensable tool in shaping future software engineers, making learning more efficient, engaging, and relevant to real-world development challenges.
 
 ## Conclusion
+-----
+Essentially, AI has played a significant role in transforming my Software Engineering course experience, greatly enhancing my learning process and improving my coding skills. Tools like ChatGPT have provided instant feedback, clarified complex concepts, and assisted in debugging, helping me grasp challenging topics more efficiently. While initially, I relied on AI for quick solutions, I learned to use it strategically to complement my problem-solving approach, allowing me to deepen my understanding and build confidence. For future courses, integrating AI in a more structured way—leveraging personalized feedback and adaptive learning paths—could further optimize the educational experience, balancing the speed and support AI offers with the critical thinking and hands-on problem-solving necessary for mastering software engineering.
 
-Hello
