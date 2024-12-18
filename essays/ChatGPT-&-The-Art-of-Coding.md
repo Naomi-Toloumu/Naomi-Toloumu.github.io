@@ -44,12 +44,12 @@ The WODs were a tough test of my coding skills, and my initial approach relied h
 
 
 **4. Esssays**
------
+
 I used ChatGPT to help with my technical essays, mainly to fix spelling errors and improve sentence flow. After writing my drafts, I'd ask ChatGPT to catch mistakes and reword awkward sentences, making my work clearer and more polished without changing the content. It helped me present my ideas more effectively.
 
 
 **5. Final Project**
------
+
 While working on a product page, I used ChatGPT to solve a few coding issues. I asked, "How does getServerSession work in Next.js for authentication?" ChatGPT explained session management and how to protect pages with loggedInProtectedPage. I also needed help with a case-insensitive Prisma query, so I asked, "How do I use findMany for a case-insensitive query?" ChatGPT showed me how to use the contains operator with mode: 'insensitive'. Additionally, I asked, "How do I pass props between components in Next.js when one is 'use client'?" ChatGPT guided me on importing and exporting SearchProducts and ListProducts correctly. This helped me improve my code structure and make the development process faster.
 
 
@@ -106,22 +106,23 @@ export default ProductsPage;
 
 
 **6. Learning a Concept**
------
+
 ChatGPT has been a valuable tool in improving my understanding of software engineering, especially when it comes to debugging. When encountering bugs or errors in my code, I can quickly ask ChatGPT for help. It assists in interpreting error messages, explaining potential causes, and suggesting fixes. This makes the debugging process faster and more efficient, allowing me to understand important concepts like code structure and logic. ChatGPT also helps with common issues, such as resolving ESLint errors in VSCode. For example, when I get warnings like "no-unused-vars" or "expected indentation of 2 spaces," I can ask ChatGPT, "How do I fix those particular Eslint errors in VSCode?" It essentially helps by providing various solutions and informs me of potential factors that impact it which I take note of.
 
 
 **7. Answering a Question in Class**
------
+
 To answer most of the discussion questions in my course, I focus on taking detailed notes during lectures, jotting down key points and ideas discussed in class. I often use ChatGPT to simplify complex topics and present them in clearer terms. While ChatGPT is a helpful tool, I double-check its explanations against my notes to make sure everything aligns with what was covered in class. This approach helps me understand the material better and answer the questions more effectively.
 
 
 **8. Asking or Answer a Smart Question**
------
+
 I tend not to ask or answer complex questions because I feel that I lack the experience and knowledge to tackle such challenging topics. Instead of using ChatGPT or any AI tools, I prefer to review what other students have discussed in class or on Discord, as their insights often provide different perspectives that help me understand the material better. Since I don’t feel confident in solving a wide range of errors or complex problems, I usually try to work through any difficulties on my own. 
 
 
 
 **9. Coding Example**
+
 "Give an Example of using async and await ot fetch data from an API"
 
 Results:
