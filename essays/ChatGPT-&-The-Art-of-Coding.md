@@ -43,12 +43,12 @@ During the Experience WODs, I used ChatGPT selectively, turning to it only for c
 The WODs were a tough test of my coding skills, and my initial approach relied heavily on AI tools like ChatGPT for quick solutions. While AI provided immediate feedback and suggestions, it ultimately slowed my learning process. Instead of developing a deeper understanding of the concepts, I became overly reliant on AI to solve problems for me. Realizing this, I shifted my approach, using AI more strategically to ask targeted questions and seek optimization tips rather than just copying answers.
 
 
-*4. Esssays*
+**4. Esssays**
 -----
 I used ChatGPT to help with my technical essays, mainly to fix spelling errors and improve sentence flow. After writing my drafts, I'd ask ChatGPT to catch mistakes and reword awkward sentences, making my work clearer and more polished without changing the content. It helped me present my ideas more effectively.
 
 
-*5. Final Project*
+**5. Final Project**
 -----
 While working on a product page, I used ChatGPT to solve a few coding issues. I asked, "How does getServerSession work in Next.js for authentication?" ChatGPT explained session management and how to protect pages with loggedInProtectedPage. I also needed help with a case-insensitive Prisma query, so I asked, "How do I use findMany for a case-insensitive query?" ChatGPT showed me how to use the contains operator with mode: 'insensitive'. Additionally, I asked, "How do I pass props between components in Next.js when one is 'use client'?" ChatGPT guided me on importing and exporting SearchProducts and ListProducts correctly. This helped me improve my code structure and make the development process faster.
 
@@ -105,23 +105,23 @@ export default ProductsPage;
 ```
 
 
-*6. Learning a Concept*
+**6. Learning a Concept**
 -----
 ChatGPT has been a valuable tool in improving my understanding of software engineering, especially when it comes to debugging. When encountering bugs or errors in my code, I can quickly ask ChatGPT for help. It assists in interpreting error messages, explaining potential causes, and suggesting fixes. This makes the debugging process faster and more efficient, allowing me to understand important concepts like code structure and logic. ChatGPT also helps with common issues, such as resolving ESLint errors in VSCode. For example, when I get warnings like "no-unused-vars" or "expected indentation of 2 spaces," I can ask ChatGPT, "How do I fix those particular Eslint errors in VSCode?" It essentially helps by providing various solutions and informs me of potential factors that impact it which I take note of.
 
 
-*7. Answering a Question in Class*
+**7. Answering a Question in Class**
 -----
 To answer most of the discussion questions in my course, I focus on taking detailed notes during lectures, jotting down key points and ideas discussed in class. I often use ChatGPT to simplify complex topics and present them in clearer terms. While ChatGPT is a helpful tool, I double-check its explanations against my notes to make sure everything aligns with what was covered in class. This approach helps me understand the material better and answer the questions more effectively.
 
 
-*8. Asking or Answer a Smart Question*
+**8. Asking or Answer a Smart Question**
 -----
 I tend not to ask or answer complex questions because I feel that I lack the experience and knowledge to tackle such challenging topics. Instead of using ChatGPT or any AI tools, I prefer to review what other students have discussed in class or on Discord, as their insights often provide different perspectives that help me understand the material better. Since I don’t feel confident in solving a wide range of errors or complex problems, I usually try to work through any difficulties on my own. 
 
 
 
-*9. Coding Example*
+**9. Coding Example**
 "Give an Example of using async and await ot fetch data from an API"
 
 Results:
@@ -136,27 +136,27 @@ fetchData();
 ```
 
 
-*10. Explaining Code*
------
+**10. Explaining Code**
+
 AI, like ChatGPT, has been very useful for explaining code and helping developers understand complex concepts quickly. It can provide instant explanations and suggest solutions, which speeds up the development process. However, the solutions it gives aren’t always perfect and often require tweaking to fit the problem. While it saves time by giving a starting point, it can take some trial and error to refine the results. Despite this, AI tools are still valuable for speeding up learning and improving coding efficiency.
 
 
-*11. Writing Code*
------
+**11. Writing Code**
+
 ChatGPT has become an essential tool in my development process, especially for new projects or challenging tasks. It quickly provides clear templates, code snippets, and guidance, helping me avoid common mistakes and speed up the initial stages of development. For example, when I needed help with setting up authentication in Next.js and Prisma, I could simply ask, “How do I set up authentication with Next.js and Prisma?” and get a step-by-step explanation. While the code often requires some adjustments, ChatGPT significantly accelerates my workflow, helping me learn faster and improve efficiency.
 
 
-*12. Documenting Code*
-----
+**12. Documenting Code**
+
 After generating code from ChatGPT, it often includes summaries that explain the code's purpose and how different parts work together. These automatic explanations help make the code easier to understand and maintain, saving time and improving readability. This is especially helpful in collaborative projects, where clear documentation is key. ChatGPT’s ability to break down complex code into simple descriptions ensures better understanding and easier integration of algorithms or design patterns into the codebase.
 
 
-*13. Quality of Code*
------
+**13. Quality of Code**
+
 ChatGPT has significantly improved my coding practices in ICS 314, helping me write cleaner and more efficient code. In the beginning, I struggled with issues like indentation and common errors, but ChatGPT's consistent feedback helped me quickly identify and correct these mistakes. It provided clear explanations, pointed out formatting issues, and suggested best practices, which made it easier to adopt good habits. Over time, tasks like proper indentation became automatic, and errors that once slowed me down became easier to catch and fix.
 
-*14. Other Uses*
------
+**14. Other Uses**
+
 AI has helped me with the setup and testing process for my development enrionment. For example, it guided me through downloading and checking essential software like Node.js and npm, using simple commands such as node -v and npm -v to verify their versions. Additionally, ChatGPT helped me understand how to use npm run dev to launch the development server, allowing me to test my project locally. By providing clear, step-by-step instructions, ChatGPT ensured that my project was properly set up and running on localhost, minimizing setup errors and accelerating my development workflow.
 
 ## Impact on Learning and Understanding
