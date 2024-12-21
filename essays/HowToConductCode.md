@@ -6,25 +6,31 @@ title: "How To Conduct Code"
 date: 2024-09-26
 published: true
 labels:
-  - ESLint 
+  - CodingStandards 
+  - ESLint
   - Troubleshooting
 ---
-Coding standards are essential rules that help programmers write clear and effective code. They provide guidelines on proper formatting, enhancing clarity and organization. Recently, I had the opportunity to implement ESLint in my coding practice using Visual Studio Code (VSCode). This experience broadened my understanding of the tool's capabilities. ESLint is not just for finding and fixing problems in code; it can be customized to follow specific coding standards. It offers visual indicators for error locations, allows automatic fixes with a single command, and helps catch mistakes early.
 
-## No Pain, No Gain
+## Why Coding Standards Matter
 
-Navigating ESLint was frustrating at times, especially when I didn't fully understand the code I was working on. I often relied on the problems panel to guide me, which improved my troubleshooting skills. Taking the time to adjust indentation and fix other issues was actually enjoyable. This hands-on approach deepened my understanding of how the code works. Each problem I solved often led to discovering related issues. I prefer learning this way instead of letting ESLint automatically fix everything for me, as it helps me grasp coding standards better. However, when I faced numerous difficult issues, I would use tools like Copilot and ESLint to speed up the process.
+Coding standards are like the “rules of the road” for programmers. They tell us how to write code in a way that’s clean, easy to read, and easy to fix when things go wrong. Think of them as a guide to help us stay organized and avoid making our code a jumbled mess. Recently, I had the chance to use a tool called ESLint while coding in Visual Studio Code (VSCode). ESLint is like a helpful assistant that checks if your code has mistakes. But it’s not just about pointing out errors—it can also make sure your code looks neat and follows certain rules. It can show you where things went wrong, suggest how to fix them, and even fix some problems automatically with just a click.
 
-As I tackled the errors one by one, I noticed a real improvement in my coding practices. Following ESLint's guidelines forced me to think more critically about my coding choices. It encouraged me to write code that was not just functional but also clear and easy to read. This change in mindset was one of the most valuable lessons from my first week with ESLint.
 
-## Collaboration Is Key
+## A Rough Start 
 
-One of the most significant benefits of coding standards, especially with tools like ESLint, is the consistency they create within teams. In collaborative projects, inconsistency can lead to confusion and longer debugging times. By following a shared set of coding standards, team members can communicate more effectively. This reduces misunderstandings and allows for faster project iterations.
+At first, using ESLint was frustrating. I often didn’t completely understand why my code was being flagged, and the long lists of errors felt overwhelming. It was tempting to just let the tool fix everything for me, but I decided to take a different approach. Instead of just clicking “fix” and moving on, I spent time figuring out what was wrong and how to fix it myself. The more I worked through the errors, the more I understood about how code should be structured. Simple things, like fixing indentation and aligning text properly, made my code look cleaner and easier to read. It wasn’t always easy, but each small improvement made a difference. And the more I solved these problems on my own, the better I became at writing good code.
 
-Moreover, coding standards promote best practices that are crucial for long-term project success. They encourage developers to write code with future maintenance and scalability in mind. This is especially important for larger projects, where a lack of consistency can make the codebase hard to manage.
 
-## The Journey Continues
+## Consistency is Key
 
-Reflecting on my first week with ESLint in VSCode, I can confidently say that while the journey was challenging, it was also rewarding. Confronting my coding habits was initially painful, but it led to a deeper understanding of the importance of coding standards. They are not just rules to follow; they are tools that foster better coding practices, enhance collaboration, and ensure high code quality.
+One of the biggest advantages of using ESLint is that it helps you stay consistent. When you’re working on a team, it’s important that everyone’s code looks similar. Imagine trying to read a book where every chapter has a different font and layout—it would be confusing, right? The same goes for code. If everyone on a team follows the same set of rules, the code becomes easier to read and understand, even if you didn’t write it yourself. This consistency makes it easier for team members to collaborate, spot problems, and make changes without getting lost in a sea of different styles.
 
-As I continue to use ESLint, I am excited to see how my coding skills will grow. The discipline that comes from adhering to coding standards is a powerful asset in my development as a programmer. In the end, embracing these standards is not just about fixing errors; it’s about developing a mindset that values clarity, organization, and excellence in coding.
+Coding standards aren’t just about looking nice—they also make code easier to maintain. As projects grow, it’s easy for things to get messy. By sticking to a clear set of rules, you can keep things organized, which is especially important in big projects where many people are working together. It helps everyone stay on the same page and ensures that future changes won’t cause more problems than they solve.
+
+
+## Learning to Grow
+
+Looking back on my first week with ESLint, I realize it was a lot harder than I thought, but also much more rewarding than I expected. It forced me to look closely at my own coding habits and make changes. At first, I resisted, but over time I started to see the value in writing clean, organized code. These coding rules are not just technicalities—they’re tools that help us grow as programmers, improve teamwork, and create software that’s easier to update and maintain.
+
+Using ESLint taught me a valuable lesson: coding isn’t just about getting something to work—it’s about doing it in a way that’s easy to understand, easy to fix, and easy to build on. As I continue using ESLint, I’m excited to see how it helps me improve. Following coding standards takes practice and discipline, but in the end, it helps me write better code, work better with others, and make software that will stand the test of time. It’s not just about fixing mistakes—it’s about adopting a mindset that values clarity, organization, and excellence.
+
