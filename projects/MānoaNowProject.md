@@ -74,8 +74,6 @@ Throughout the project, I utilized various tools and libraries such as **npm**, 
 
 Lessons
 -----
-The collaboration with the back-end team was key to ensuring that the front-end and back-end worked seamlessly together. This required continuous testing, integration, and iteration to make sure everything from the cart to the search functionality performed as expected.
-
 Working on the final project as part of a software engineering team taught me invaluable lessons about collaboration and perseverance. With our schedules often conflicting due to personal commitments and other class responsibilities, it wasn’t always easy to stay aligned. However, despite these difficulties, we didn’t give up. We took proactive steps to address issues as they arose, communicated openly, and supported each other throughout the process. In the end, our ability to adapt, stay focused on our goals, and work together as a team allowed us to successfully complete the project and build an application we could all be proud of.
 
 [Mānoa Now Marketplace GitHub Page](https://github.com/uhm-marketplace/MnM-Final)
