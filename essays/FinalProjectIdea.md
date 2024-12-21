@@ -4,7 +4,7 @@ type: essay
 title: "Mānoa Unity Project"
 # All dates must be YYYY-MM-DD format!
 date: 2024-11-06
-published: true
+published: false
 labels:
   - Community Engagement Hub
   - Event Discovery and Management Platform
