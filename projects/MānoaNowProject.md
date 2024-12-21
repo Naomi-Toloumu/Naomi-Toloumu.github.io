@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/B4H(2.0).jpg
+image: img/manoanow1.png
 title: "Mānoa Now Marketplace"
 date: 2024
 published: true
