@@ -4,7 +4,7 @@ type: essay
 title: "The UI Odyssey"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-10
-published: true
+published: false
 labels:
   - UI Framework 
   - Bootstrap5
