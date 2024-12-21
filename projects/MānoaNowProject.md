@@ -70,4 +70,5 @@ The collaboration with the back-end team was key to ensuring that the front-end 
 
 Ultimately, the Mānoa Now Marketplace became a fully functional and user-friendly platform, a testament to our hard work and collaboration. This project not only helped me hone my front-end development skills but also deepened my understanding of how to build complex web applications as part of a team.
 
-[UHMarketplace](https://uhm-marketplace.github.io/)
+[Mānoa Now Marketplace GitHub Page](https://uhm-marketplace.github.io/)
+
