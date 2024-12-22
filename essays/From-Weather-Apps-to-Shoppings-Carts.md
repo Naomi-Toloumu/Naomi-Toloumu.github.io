@@ -13,7 +13,7 @@ labels:
 
 
 ## What Are Design Patterns?
-
+-----
 In software development, just as in other fields, there are tried-and-tested solutions to common problems. These solutions are called design patterns, and they serve as guidelines that help developers create efficient, maintainable, and organized code. Think of them as recipes—well-established ways of solving problems that allow you to achieve great results without having to reinvent the wheel every time.
 
 Instead of writing specific lines of code, design patterns provide developers with high-level solutions that can be adapted to different situations. Whether you're building a new system from the ground up or adding features to an existing app, design patterns offer structured ways to handle challenges that come up regularly. By following these proven patterns, developers can solve problems quickly and effectively, saving time and reducing errors.
@@ -31,7 +31,6 @@ Design patterns fall into three main categories:
 
 ## A Simple Weather Function – Strategy Pattern
 -----
-
 Let’s explore a simple weather function that calculates the "feels like" temperature based on the actual temperature and humidity, then assigns a "danger level" (like a weather warning) based on those values. This scenario demonstrates the Strategy Pattern in action.
 
 The **Strategy Pattern** allows you to choose from a set of interchangeable algorithms or methods to solve a problem, depending on the situation. It’s like having multiple tools at your disposal and being able to pick the best one based on your needs. And the flexibility doesn't stop there—you can swap out one strategy for another at runtime.
@@ -68,7 +67,7 @@ In essence, the Strategy Pattern makes your code more adaptable and scalable, en
 
 
 ## Header Component – Composite Pattern
-
+-----
 Next up, let’s look at a common Header Component on a website. This component typically contains multiple smaller parts, such as the restaurant name, navigation links, and social media buttons. But what if you could treat all of these different parts as a single unified entity? That’s the magic of the Composite Pattern.
 
 **The Composite Pattern** is a design solution that lets you treat individual objects and groups of objects in the same way. It’s especially useful when you need to work with complex structures that consist of multiple parts, as it allows you to treat the whole structure as one unit. This simplifies managing and organizing the components.
@@ -114,7 +113,7 @@ By treating the entire header as one object, we can handle it more efficiently, 
 
 
 ## Shopping Cart – Observer Pattern
-
+-----
 Now, let’s switch gears and talk about something familiar to most people: an online shopping cart. When you add or remove items, you see the cart automatically update with the new total and contents. This is an excellent example of the Observer Pattern.
 
 With the **Observer Pattern**, one part of your system (like the cart) can notify other parts (like the UI) whenever something changes. Think of it as a group of friends who are all keeping an eye on the same event. When the event happens (like an item being added or removed), they all get notified and respond accordingly.
