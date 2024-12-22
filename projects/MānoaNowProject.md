@@ -31,6 +31,7 @@ My contributions included designing and implementing key components like the **n
 
    - **Start:** 12:14 PM  
    - **End:** 1:45 PM  
+   
    I began by designing the layout and structure of the navigation bar, ensuring that it was responsive and user-friendly. I spent additional time refining the navbar’s functionality and integrating it with routing, ensuring smooth transitions between pages.
 
 
@@ -38,28 +39,33 @@ My contributions included designing and implementing key components like the **n
 
    - **Start:** 2:40 PM  
    - **End:** 3:18 PM  
+
    For the shopping cart, I focused on creating a visually appealing and fully functional page. This included building the cart’s dynamic content, ensuring it could display added products correctly, as well as implementing the integration with local storage to retain items between sessions.
 
 
 3. **Browse Categories (Digital HQ & Study Tools)** 
 
    - **Start:** 11:45 AM  
-   - **End:** 1:18 PM  
+   - **End:** 1:18 PM 
+
    I worked on implementing product category pages, including Digital HQ and Study Tools, which required organizing and displaying items in a user-friendly layout. The goal was to allow users to easily navigate between categories and find what they needed quickly.
 
 
 4. **Revising Categories (Digital HQ & Study Tools, Campus Closet & Self-Care)**  
 
    - **Start:** 9:55 AM (Campus Closet & Self-Care)  
-   - **End:** 11:12 AM  
+   - **End:** 11:12 AM 
+
    - **Start:** 11:19 AM (Digital HQ & Study Tools)  
    - **End:** 11:53 AM  
+
    I spent time refining these category pages, improving the UI/UX based on feedback and testing. This involved revising the design to make the flow smoother and ensure the content displayed correctly across all devices.
 
 
 5. **Shopping Cart**  
 
-   - **2.5 Hours**  
+   - **2.5 Hours** 
+
    I dedicated a significant portion of time to further refine the shopping cart’s functionality, making sure that products could be added, removed, and stored seamlessly. Testing the cart was crucial to ensure that it integrated smoothly with the backend to handle user data accurately.
 
 
@@ -67,8 +73,10 @@ My contributions included designing and implementing key components like the **n
 
    - **Start:** 5:55 AM  
    - **End:** 6:30 AM  
+
    - **Start:** 9:58 AM  
    - **End:** 12:00 AM  
+
    I worked on developing a powerful search functionality that allowed users to filter products based on text input and other parameters. This feature was essential for the user experience, and I spent time optimizing it to be both fast and intuitive.
 
 
@@ -76,15 +84,18 @@ My contributions included designing and implementing key components like the **n
 
    - **Start:** 6:43 PM  
    - **End:** 7:38 PM  
+
    - **Start:** 9:00 PM  
    - **End:** 11:00 PM  
+
    As the project progressed, I was tasked with revising certain UI elements for better performance and design efficiency. This included the implementation of icons with **React Icons** and optimizing page load speeds.
 
 
 8. **Final Revisions and Testing**
-  
+
    - **Start:** 10:34 PM  
    - **End:** 12:59 AM  
+
    In the final phase, I addressed some design flaws and worked on improving the input speed of certain elements. I also spent time running tests with **Playwright** to ensure that the platform was fully functional and met the project’s specifications.
 
 Throughout the project, I utilized various tools and libraries such as **npm**, **React**, and **CSS** to build and style the interface. The styling was handled through **globals.css** and **page.modules.css**, which ensured consistency across the site. I also worked with **local storage** to ensure user data persisted, even after the session ended.
