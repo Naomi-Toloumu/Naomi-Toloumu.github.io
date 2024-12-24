@@ -6,8 +6,8 @@ title: "From Estimates to Execution"
 date: 2024-12-23
 published: true
 labels:
-  - Reflection of AI 
-  - ICS 314 Growth
+  - Mānowa Now Marketplace Journey 
+  - Rough Drafts to Reality
 ---
 
 
