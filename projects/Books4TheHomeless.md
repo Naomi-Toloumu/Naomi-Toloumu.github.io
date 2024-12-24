@@ -20,7 +20,7 @@ and a source of comfort and entertainment. As avid readers ourselves, we wanted 
 enrichment through books.
 
 
-As the project leader, my role wasto corrdinate efforts with my three team members,
+As the project leader, my role was to corrdinate efforts with my three team members,
 guiding our brainstorming sessions to refine our objective of donating books to the
 homeless. Given the 2 month timeframe, we decided to reduce the number of donators
 to focus on the AVID grade levels as there were plenty of Freshman, Sophmores, Juniors
